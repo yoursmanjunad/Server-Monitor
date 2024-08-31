@@ -31,9 +31,9 @@ To use these scripts, simply clone the repository and run the desired script(s) 
 ### Example
 
 ```bash
-./cpu_usage_monitor.sh
-./memory_usage_monitor.sh
-./generate_cumulative_report.sh
+./Monitor.sh
+./aggregate_user.sh
+./total_report.sh
 ```
 
 The scripts will generate output files containing the monitored data, which can then be analyzed further as needed.
